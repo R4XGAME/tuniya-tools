@@ -41,7 +41,7 @@ dependencies:
   # Image Processing
   image: ^4.2.0
   image_picker: ^1.1.2
-  image_cropper: ^7.1.0
+  image_cropper: ^5.0.1
   flutter_colorpicker: ^1.1.0
 
   # Media - using safe LTS version
